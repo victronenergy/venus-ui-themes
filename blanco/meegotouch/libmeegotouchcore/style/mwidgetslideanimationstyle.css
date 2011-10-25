@@ -1,0 +1,16 @@
+/* MWidgetSlidedeAnimationStyle : MAbstractWidgetAnimationStyle */
+MApplicationMenu MWidgetSlideAnimationStyle#In {
+    origin: "bottom";
+}
+
+MApplicationMenu MWidgetSlideAnimationStyle#Out {
+    origin: "bottom";
+}
+
+MNavigationBar MWidgetSlideAnimationStyle#In {
+    origin: "bottom";
+}
+
+MNavigationBar MWidgetSlideAnimationStyle#Out {
+    origin: "bottom";
+}

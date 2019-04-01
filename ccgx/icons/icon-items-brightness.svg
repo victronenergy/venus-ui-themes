@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34">
+<circle r="5.5" cx="17" cy="16.5" style="stroke:#ddd;fill:none" stroke-opacity="0.6"/>
+<circle r="4" cx="17" cy="16.5" style="stroke:black;fill:none;stroke-width:2"/>
+<circle r="3" cx="17" cy="16.5" style="stroke:#ddd;fill:none" stroke-opacity="0.6"/>
+<rect x="16.5" y="2" width="3" height="7" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="16.5" y="24" width="3" height="7" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="25" y="15" width="7" height="3" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="2" y="15" width="7" height="3" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="8.23" y="3.87" width="3" height="7.72" transform="translate(-3.79 8.73) rotate(-45)" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="20.41" y="7.23" width="7.72" height="3" transform="translate(2.06 19.43) rotate(-45)" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="2" y="23" width="7.72" height="3" transform="translate(-12.48 11.57) rotate(-45)" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+<rect x="22.77" y="22.41" width="3" height="7.72" transform="translate(-9.64 23.27) rotate(-45)" rx="1" ry="1" style="stroke:#ddd;fill:black" stroke-opacity="0.6"/>
+</svg>

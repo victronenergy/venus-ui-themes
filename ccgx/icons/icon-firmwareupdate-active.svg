@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+<rect style="fill:#fff" x="7" width="2" height="5"/>
+<rect style="fill:#fff" x="12" width="2" height="5"/>
+<rect style="fill:#fff" x="17" width="2" height="5"/>
+<rect style="fill:#fff" x="22" width="2" height="5"/>
+
+<rect style="fill:#fff" x="7" y="27" width="2" height="5"/>
+<rect style="fill:#fff" x="12" y="27" width="2" height="5"/>
+<rect style="fill:#fff" x="17" y="27" width="2" height="5"/>
+<rect style="fill:#fff" x="22" y="27" width="2" height="5"/>
+
+<rect style="fill:#fff" x="27" y="7" width="5" height="2"/>
+<rect style="fill:#fff" x="27" y="12" width="5" height="2"/>
+<rect style="fill:#fff" x="27" y="17" width="5" height="2"/>
+<rect style="fill:#fff" x="27" y="22" width="5" height="2"/>
+
+<rect style="fill:#fff" y="7" width="5" height="2"/>
+<rect style="fill:#fff" y="12" width="5" height="2"/>
+<rect style="fill:#fff" y="17" width="5" height="2"/>
+<rect style="fill:#fff" y="22" width="5" height="2"/>
+
+<rect style="stroke:#558080;fill:none" x="5" y="5" width="22" height="22"/>
+
+<polygon style="fill:#fff" points="9,16 16,24 23,16 18,16 18,8 14,8 14,16"/>
+
+</svg>

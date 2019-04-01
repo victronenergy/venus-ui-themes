@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+<path style="fill:#fff" d="
+	M 9,4,16,17
+	H 3
+	L 9,4
+	M 9,0,0,19
+	H 19
+	L 9,0
+	Z"/>
+<rect x="8" y="8" width="2" height="6" style="fill:#fff"/>
+<rect x="8" y="15" width="2" height="1" style="fill:#fff"/>
+</svg>

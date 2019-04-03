@@ -20,7 +20,7 @@
 <rect style="fill:#fff" y="17" width="5" height="2"/>
 <rect style="fill:#fff" y="22" width="5" height="2"/>
 
-<rect style="stroke:#558080;fill:none" x="5" y="5" width="22" height="22"/>
+<rect style="stroke:#fff;fill:none" x="5" y="5" width="22" height="22"/>
 
 <polygon style="fill:#fff" points="9,16 16,24 23,16 18,16 18,8 14,8 14,16"/>
 

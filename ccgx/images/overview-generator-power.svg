@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 37">
+<defs
+   id="defs6" />
+<g
+   transform="matrix(0.31896306,0,0,0.30809012,-0.01677892,0.01474623)"
+   id="g1054">
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:8.19343853;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 4.0962991,83.405721 V 33.459851"
+     id="path875" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.7088728;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect821-3"
+     width="64.324142"
+     height="48.931362"
+     x="45.959789"
+     y="11.23533"
+     rx="9.6768656"
+     ry="9.6931829" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:4.7088728;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 56.515105,35.765043 c 7.815124,-14.178603 15.36764,-16.519988 22.501729,0 7.489817,17.686721 15.604936,13.608078 22.501726,0"
+     id="path838" />
+  <path
+     style="fill:none;stroke:#f9ffff;stroke-width:4.7088728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 121.46329,72.007817 h 26.7208"
+     id="path840" />
+  <path
+     style="fill:none;stroke:#f9ffff;stroke-width:4.7088728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 121.46329,90.987248 h 26.7208"
+     id="path840-7" />
+  <path
+     style="fill:none;stroke:#f9ffff;stroke-width:4.7088728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 121.46329,78.334296 h 26.7208"
+     id="path840-5" />
+  <path
+     style="fill:none;stroke:#f9ffff;stroke-width:4.7088728;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 121.46329,84.660772 h 26.7208"
+     id="path840-3" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:6.59242153;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 21.739703,116.70296 H 45.264231"
+     id="path877" />
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:6.59242153;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 119.85748,116.70296 h 23.52454"
+     id="path877-5" />
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:4.23798561;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect821"
+     width="151.69072"
+     height="112.41239"
+     x="6.1894503"
+     y="2.1184964"
+     rx="9.4098148"
+     ry="9.4256821" />
+</g>
+</svg>

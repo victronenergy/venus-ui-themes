@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+  <g transform="translate(-98.833 -262.762) scale(2.18907)">
+    <path style="opacity:1;fill:#171717;fill-opacity:1;stroke:#171717;stroke-width:.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.996078" d="M46.921 124.724v3.663h5.48l2.692-3.075h.912l.227-.55-1.698-.095-2.86 1.148-.644-1.09z"/>
+    <path style="opacity:1;fill:none;fill-opacity:1;stroke:#171717;stroke-width:.219487;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.996078" d="M47.051 124.698h-1.03l-.306.8 1.31.354"/>
+    <rect style="opacity:1;fill:#171717;fill-opacity:1;stroke:#171717;stroke-width:.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.996078;stop-color:#000" width="1.636" height=".562" x="48.149" y="123.507" rx=".1" ry=".1"/>
+    <rect style="opacity:1;fill:#171717;fill-opacity:1;stroke:#171717;stroke-width:.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.996078;stop-color:#000" width=".657" height=".55" x="48.638" y="124.102" rx=".1" ry=".1"/>
+    <path style="opacity:1;fill:#171717;fill-opacity:1;stroke:#171717;stroke-width:.0315881;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:.996078;stop-color:#000" d="M56.553 127.048c0 .366-.254.662-.566.662-.313 0-.567-.296-.567-.662 0-.365.567-1.175.567-1.175s.566.81.566 1.175z"/>
+  </g>
+</svg>

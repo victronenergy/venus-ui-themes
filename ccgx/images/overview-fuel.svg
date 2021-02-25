@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26">
+  <g transform="translate(-161.157 -400.725) scale(3.20696)">
+    <path style="fill:none;stroke:#171717;stroke-width:.2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M55.588 128.933c.587.009.222.992.272 1.473.355 1.287 2.298 1.484 2.008-.064l-.208-1.418"/>
+    <rect style="fill:#171717;fill-opacity:1;stroke:none;stroke-width:.0593599;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" width="5.569" height="1.099" x="50.615" y="131.663" rx=".183" ry=".183"/>
+    <rect style="fill:#171717;fill-opacity:1;stroke:none;stroke-width:.0684399;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" width="4.464" height="7.418" x="51.168" y="125.255" rx="1" ry="1.109"/>
+    <rect style="fill:#fff;fill-opacity:1;stroke:none;stroke-width:.0649999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000" width="3.197" height="2.056" x="51.801" y="126.058" rx=".1" ry=".1"/>
+    <path style="fill:none;stroke:#171717;stroke-width:.264456;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M55.781 126.18l.58.285.413.44"/>
+    <path style="fill:#171717;fill-opacity:1;stroke:none;stroke-width:.188976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M56.956 126.773l-.27.255.173.228-.243.349.102.646.277.072.31-.05.215.69.056-.01.005.03.168-.046-.007-.023.047-.02-.106-.384-.23-.83.19-.165-.178-.449zm.189.793l.13.565c-.072.039-.17.053-.266.068a.457.457 0 0 1-.215-.024c-.037-.2-.111-.394-.023-.609.146-.11.25-.006.374 0z"/>
+    <path style="fill:#171717;fill-opacity:1;stroke:none;stroke-width:.0103602;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M56.804 128.18l.025-.033.077.02c.027 0 .042-.03.057-.058.035-.355.034-.574-.021-.593l.083.018c.012.181.008.372-.018.576a.227.227 0 0 0-.02.094c-.065.008-.127-.011-.183-.023z"/>
+  </g>
+</svg>
